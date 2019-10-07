@@ -4,12 +4,7 @@
 
 ## ▼△▼△▼△▼ Net Art
 
-**Related:** <br>
-[Net Art Anthology](https://anthology.rhizome.org/)<br>
-[Art in the Age of the Internet exhibition](https://www.icaboston.org/exhibitions/art-age-internet-1989-today) <br>
-[I Was Raised on the Internet exhibition](https://mcachicago.org/Exhibitions/2018/I-Was-Raised-On-The-Internet)
-<br>
-<br>
+
 
 
 # Net Art
@@ -54,3 +49,10 @@
 [![Net Art](images/Art74_NetArt.020.jpeg)](http://www.anthonyantonellis.com/bliss/)
 
 [![Net Art](images/Art74_NetArt.021.jpeg)](https://anthology.rhizome.org/)
+
+**Related:** <br>
+[Net Art Anthology](https://anthology.rhizome.org/)<br>
+[Art in the Age of the Internet exhibition](https://www.icaboston.org/exhibitions/art-age-internet-1989-today) <br>
+[I Was Raised on the Internet exhibition](https://mcachicago.org/Exhibitions/2018/I-Was-Raised-On-The-Internet)
+<br>
+<br>
