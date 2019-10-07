@@ -8,11 +8,13 @@
 
 
 # Net Art
-#### **Click through on each image to go to the net art piece and interact in your browser!**
+
 
 ![Net Art](images/Art74_NetArt.002.jpeg)
 
 ![Net Art](images/Art74_NetArt.003.jpeg)
+
+#### **Click through on each image to go to the net art piece and interact in your browser!**
 
 [![Net Art](images/Art74_NetArt.004.jpeg)](http://www.linkoln.net/complex/)
 
