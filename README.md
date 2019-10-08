@@ -46,8 +46,6 @@
 
 [![Net Art](images/Art74_NetArt.018.jpeg)](http://mirrrroring.net/)
 
-[![Net Art](images/Art74_NetArt.019.jpeg)](http://www.thisisnotaplace.com/)
-
 [![Net Art](images/Art74_NetArt.020.jpeg)](http://www.anthonyantonellis.com/bliss/)
 
 [![Net Art](images/Art74_NetArt.021.jpeg)](https://anthology.rhizome.org/)
