@@ -1,10 +1,4 @@
 # 🎥📻VIDEO📺💾📹ART📼📷HISTORY💻
-#### .・゜:✧･ﾟ: *✧･ﾟ:* SJSU Art 75 | Fall 2018 *:･ﾟ✧*:･ﾟ✧
-</br>
-
-## ▼△▼△▼△▼ Net Art
-
-
 
 
 # Net Art
